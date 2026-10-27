@@ -109,5 +109,3 @@ ORDER BY weightingms;
 
 ---
 
-## 🛠 Tools
-MySQL 8+ (window functions and CTEs required)
